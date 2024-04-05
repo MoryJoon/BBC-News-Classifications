@@ -10,3 +10,4 @@
     * related_topics: The labels attached to each article (can be viewed as related categories)
     * body: The text of the article
     * category: The main category to which the article belongs
+### This dataset had several categories with different frequencies, but the three categories with the highest frequency are Iran, Sports and World, which we used in the model implementation.
